@@ -1,6 +1,6 @@
 # IANA Language registry tools
 
-The code in this repo downloads and parses language subtag information from the IANA language registry at https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+The code in this repo downloads and parses language subtag information from the IANA language registry at https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry and specified in [RFC 5646 §3.1](https://www.rfc-editor.org/rfc/rfc5646.html#section-3.1)
 
 ## YAML format
 
